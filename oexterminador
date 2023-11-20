@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 type="playlist", 
+#EXTSIZE: Medium
+#EXTBG: #11609e
+https://bit.ly/3sDsbw9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg" group-title="", O Exterminador do Futuro
 https://download2272.mediafire.com/uav1f8kbvcbglaOmqQh10PSCBhW8rrFFNXstC7qOVQb2-DcL2Q8f6gP6E3f2MILDeKhOpE33gHmH5e3sMMrXw-EXMtpS6LHzvGQ5QJjDec_gljOx8J1ptsgEYgz4wlc-wmDWuDcSKQHz4OM5s-aoq8eMLqoex9D7_eQLqADuMfoKvA/yho0t2hsjxxvhiy/c450d5b7d123c02bf76a230c96123313.mp4
